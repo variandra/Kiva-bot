@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RemoteControl
+comment0.text=\r\n\ This\ is\ the\ class\ that\ controls\ Kiva's\ actions\ based\ on\ user\ imput\r\n\r\n
+comment1.params=
+comment1.target=RemoteControl()
+comment1.text=\r\n\ Build\ a\ new\ RemoteControl.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ The\ controller\ that\ directs\ Kiva's\ activity.\ Prompts\ the\ user\ for\ the\ floor\ map\r\n\ to\ load,\ displays\ the\ map,\ and\ asks\ the\ user\ for\ the\ commands\ for\ Kiva\ to\ execute.\r\n\r\n\ \r\n
+comment3.params=userImput
+comment3.target=KivaCommand[]\ convertDirections(java.lang.String)
+comment4.params=directions
+comment4.target=java.lang.String[]\ stringifyDirections(KivaCommand[])
+numComments=5

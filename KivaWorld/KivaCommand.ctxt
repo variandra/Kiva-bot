@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\n\ An\ enum\ class\ that\ stores\ the\ commands\ the\ kiva\ can\ use\ to\ move\ and\ interact\ with\ the\ FloorMap.\r\n\ \r\n\ @author\ Kyle\ Gunn\r\n\ @version\ 1.0\r\n
+comment1.params=shortcut
+comment1.target=KivaCommand(char)
+comment1.text=\r\n\ a\ constructor\ that\ sets\ the\ keyboard\ shortcut\ for\ each\ command\r\n\ @param\ shortcut\ This\ sets\ the\ Keyboard\ shortcut\ for\ each\ command.\r\n
+comment2.params=
+comment2.target=char\ getDirectionKey()
+comment2.text=\r\n\ getDirectionKey()\ allows\ the\ user\ to\ see\ the\ keyboard\ representation\ of\ the\ commands\ the\ kiva\ knows.\r\n\ @param\ none\r\n\ @return\ char\r\n
+comment3.params=imput
+comment3.target=KivaCommand\ getCommandByKey(char)
+comment3.text=public\ KivaCommand\ getCommandByKey(char\ Imput){\r\n\ \ \ \ \ \ \ \ \r\n\ \r\n\ \ \ \ \ \ \ \ \ KivaCommand\ command;\r\n\ \ \ \ \ \ \ \ for(int\ i\ \=\ 0\ ;\ i\ <\ KivaCommand.values().length\ ;\ i\ +\=\ 1){\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ command;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \r\n}
+numComments=4

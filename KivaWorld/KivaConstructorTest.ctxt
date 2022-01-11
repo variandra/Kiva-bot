@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KivaConstructorTest
+comment1.params=
+comment1.target=void\ testSingleArgumentConstructor()
+comment2.params=
+comment2.target=void\ testTwoArgumentConstructor()
+comment3.params=a\ b
+comment3.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+numComments=4
